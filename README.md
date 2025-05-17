@@ -1,18 +1,20 @@
 # tailwind
 
 ## Font Size Classes
-- `text-xs` → `font-size: 0.75rem;`
-- `text-sm` → `font-size: 0.875rem;`
-- `text-base` → `font-size: 1rem;`
-- `text-lg` → `font-size: 1.125rem;`
-- `text-xl` → `font-size: 1.25rem;`
-- `text-2xl` → `font-size: 1.5rem;`
-- `text-3xl` → `font-size: 1.875rem;`
-- `text-4xl` → `font-size: 2.25rem;`
-- `text-5xl` → `font-size: 3rem;`
-- `text-6xl` → `font-size: 3.75rem;`
-- `text-7xl` → `font-size: 4.5rem;`
-- `text-[10px]`
+
+- `text-xs` → `font-size: 0.75rem;` **(12px)**
+- `text-sm` → `font-size: 0.875rem;` **(14px)**
+- `text-base` → `font-size: 1rem;` **(16px)**
+- `text-lg` → `font-size: 1.125rem;` **(18px)**
+- `text-xl` → `font-size: 1.25rem;` **(20px)**
+- `text-2xl` → `font-size: 1.5rem;` **(24px)**
+- `text-3xl` → `font-size: 1.875rem;` **(30px)**
+- `text-4xl` → `font-size: 2.25rem;` **(36px)**
+- `text-5xl` → `font-size: 3rem;` **(48px)**
+- `text-6xl` → `font-size: 3.75rem;` **(60px)**
+- `text-7xl` → `font-size: 4.5rem;` **(72px)**
+- `text-[10px]` → `font-size: 10px;` **(custom value)**
+
 
 ## Font Weight Classes
 - `font-thin` → `font-weight: 100;`
